@@ -1,8 +1,7 @@
 def oxford_comma
    word = array.pop
  array.join(", ") << ", and #{word}"
-  
-end
+  end
 
 
 
